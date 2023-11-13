@@ -2,6 +2,10 @@
 
 Projeto desenvolvido no curso "CSS: aprofunde em estilos" da Alura. O objetivo com esse projeto é apenas praticar meus conhecimentos.
 
+## Tecnologias usadas
+
+Puramente HTML e CSS.
+
 ## Como Usar
 
 1. Clone o repositório ou baixe o arquivo ZIP.
